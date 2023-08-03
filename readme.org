@@ -1,0 +1,7 @@
+* Goal of the project
+
+ My goal for this procect is to have a todo app using a TUI,
+ Potentially hook it up to a postgres database
+ Access the data through a rest endpoint via axium
+
+ But step1 is to make the tui work
